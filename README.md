@@ -45,18 +45,3 @@ A API fornece os seguintes endpoints para gerenciamento de usuários e produtos:
 - `DELETE /produtos/:id`: Exclui um produto específico do usuário logado.
 
 **Observação:** Certifique-se de incluir o token de autenticação no cabeçalho das solicitações para os endpoints que requerem autenticação. O token deve ser obtido ao realizar o login com sucesso.
-
-## Contribuindo
-
-Se você quiser contribuir para este projeto, siga as etapas abaixo:
-
-1. Faça um fork deste repositório.
-2. Crie uma branch para sua nova funcionalidade ou correção de bug: `git checkout -b minha-nova-funcionalidade`.
-3. Faça as alterações desejadas no código.
-4. Commit suas alterações: `git commit -m 'Adicionando nova funcionalidade'`.
-5. Push para a branch: `git push origin minha-nova-funcionalidade`.
-6. Envie um pull request.
-
-## Conclusão
-
-Este é um projeto básico de gerenciamento de usuários e produtos que pode ser expandido e aprimorado de várias maneiras. Sinta-se à vontade para explorar e adicionar novos recursos de acordo com suas necessidades. Esperamos que este projeto seja útil como ponto de partida para suas próprias aplicações.
